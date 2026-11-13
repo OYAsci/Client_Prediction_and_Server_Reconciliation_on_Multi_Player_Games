@@ -1,0 +1,7 @@
+[gd_scene format=3 uid="uid://ctwq4ulcf8i2y"]
+
+[node name="Player" type="Node2D" unique_id=57894419]
+
+[node name="PlayerSprite" type="Polygon2D" parent="." unique_id=789660306]
+polygon = PackedVector2Array(-15, -15, 15, -15, 15, 15, -15, 15)
+uv = PackedVector2Array(-5.600006, 3.5999985, 28, 3.5999985, 28.799988, 34.799995, -8, 34.799995)
